@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="919091616106798271" datatype="html">
+        <source>Cats are cute!</source>
+        <target>A cicák aranyosak!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3982960419183164151" datatype="html">
+        <source>A cute cat image</source>
+        <target>Egy aranyos macskás kép</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6545576747176125351" datatype="html">
+        <source>Facts</source>
+        <target>Tények</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2062341934207255200" datatype="html">
+        <source>Approximately <x id="INTERPOLATION" equiv-text="{{40000 | number}}"/> people are bitten by cats in the U.S. annually.</source>
+        <target>Évente körülbelül <x id="INTERPOLATION" equiv-text="{{40000 | number}}"/> embert harapnak meg macskák az Egyesült Államokban.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="176803424638334819" datatype="html">
+        <source>A cat can jump up to five times its own height in a single bound.</source>
+        <target>Egy macska egyetlen kötésben akár ötszörösét is megugorhatja saját magasságában.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7365811377284873513" datatype="html">
+        <source>A Persian kitten from a reputable breeder can cost anywhere from <x id="INTERPOLATION" equiv-text="{{500 | currency}}"/> to <x id="INTERPOLATION_1" equiv-text="{{1800 | currency}}"/>. The price also differs for cats sold as pets and those with show and breeding potential. Show cats with breeding rights can cost <x id="INTERPOLATION_2" equiv-text="{{3000 | currency}}"/> and above.</source>
+        <target>Egy jó hírű tenyésztőtől származó perzsa cica ára <x id="INTERPOLATION" equiv-text="{{500 | currency}}"/> és <x id="INTERPOLATION_1" equiv-text="{{1800 | currency}}"/> között lehet. Az ár a kisállatként értékesített, valamint a kiállítási és tenyésztési potenciállal rendelkező macskák esetében eltérő. A tenyésztési joggal rendelkező kiállítási macskák ára <x id="INTERPOLATION_2" equiv-text="{{3000 | currency}}"/> vagy több is lehet.</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

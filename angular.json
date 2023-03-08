@@ -4,6 +4,12 @@
   "newProjectRoot": "projects",
   "projects": {
     "angular-i18n-example": {
+      "i18n": {
+        "sourceLocale": "en-US",
+        "locales": {
+          "hu-HU": "src/locale/messages.hu.xlf"
+        }
+      },
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -17,6 +23,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+            "localize": ["hu-HU"],
             "outputPath": "dist/angular-i18n-example",
             "index": "src/index.html",
             "main": "src/main.ts",

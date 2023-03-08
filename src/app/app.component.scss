@@ -1,0 +1,17 @@
+mat-card {
+  img {
+    width: 400px;
+  }
+
+  mat-card-content {
+    display: flex;
+  }
+
+  .facts {
+    padding: 8px;
+
+    p {
+      white-space: pre-wrap;
+    }
+  }
+}
